@@ -5,7 +5,7 @@
     Idea:
     - loop through the array
     - find the smallest element in the array
-    - swap the smallest element with the swap position
+    - swap the smallest element to the start of the unsorted list
     - repeat until the array is sorted
 */
 
